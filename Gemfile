@@ -41,7 +41,7 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 end
 
-  #Use twitter bootstrap for front-end UI and layout
+  #Use twitter bootstrap for front-end UI and layouts
   gem 'bootstrap-sass', '3.3.7'
 
 group :development do
